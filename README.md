@@ -3,7 +3,7 @@
 <a hrref="https://count-viewer.vercel.app/api/auth/profile"><img src="https://komarev.com/ghpvc/?username=theanishtar&label=Profile%20views&color=0e75b6&style=flat" alt="theanishtar" /></a> 
 
 
-<img align="center" alt="Profile Details" src="https://count-viewer.vercel.app/api/github/banner?background=itachi1&tech=java&streaks=fire&view=sharingan&skills=angular,vuejs,reactjs,nodejs" />
+<img align="center" alt="dangth.dev" src="https://count-viewer.vercel.app/api/github/banner?background=itachi1&tech=java&streaks=fire&view=sharingan&skills=angular,vuejs,reactjs,nodejs" />
 
 
 ### Appearance:
