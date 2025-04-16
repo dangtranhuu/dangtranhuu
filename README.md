@@ -19,7 +19,7 @@
 - Email: <dangthpc@gmail.com>
 - Facebook: <https://fb.com/dangth.dev>
 - Linkedin: <https://www.linkedin.com/in/tranhuudang>
-- Instagram: <https://www.instagram.com/dangth.dev>
+- Instagram: <https://www.instagram.com/dth.dev>
 
  </p>
 
