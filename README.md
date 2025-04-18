@@ -12,7 +12,7 @@
 - [Nam sinh FPT Polytechnic Cần Thơ tài năng, sáng tạo hệ thống học lập trình bổ ích](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/nam-sinh-fpt-polytechnic-can-tho-tai-nang-sang-tao-he-thong-hoc-lap-trinh-bo-ich.html)
 - [Diễn đàn trực tuyến tặng đồ secondhand tiện lợi “made by” sinh viên FPT Polytechnic Cần Thơ](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/dien-dan-truc-tuyen-tang-do-secondhand-tien-loi-made-by-sinh-vien-fpt-polytechnic-can-tho.html)
 - [Dự án phần mềm quản lý bán phụ kiện thiết bị di động của sinh viên FPoly Cần Thơ “lọt mắt xanh” của giảng viên](https://caodang.fpt.edu.vn/tin-tuc-poly/can-tho/du-an-phan-mem-quan-ly-ban-phu-kien-thiet-bi-di-dong-cua-sinh-vien-fpoly-can-tho-lot-mat-xanh-cua-giang-vien.html)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
