@@ -17,9 +17,9 @@
 <p align="left">
 
 - Email: <dangthpc@gmail.com>
-- Facebook: <https://fb.com/dangth.dev>
-- Linkedin: <https://www.linkedin.com/in/tranhuudang>
-- Instagram: <https://www.instagram.com/dth.dev>
+- Facebook: <fb.com/dangth.dev>
+- Linkedin: <linkedin.com/in/tranhuudang>
+- Instagram: <instagram.com/dth.dev>
 
  </p>
 
