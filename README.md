@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="dangth.dev" src="https://profilyze-api.vercel.app/api/profile/banner?background=itachi1&tech=java&streaks=fire&view=sharingan&skills=angular%2Cvuejs%2Creactjs%2Cnodejs" />
+<img align="center" alt="dangth.dev" src="https://profilyze-api.vercel.app/api/profile/banner?name=Dang+Tran+Huu&background=itachi1&tech=java&streaks=fire&view=sharingan&skills=angular%2Cvuejs%2Creactjs%2Cnodejs" />
 
 
 ### Appearance:
