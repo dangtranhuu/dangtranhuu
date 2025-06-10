@@ -1,8 +1,5 @@
 
 
-<a hrref="https://count-viewer.vercel.app/api/auth/profile"><img src="https://komarev.com/ghpvc/?username=theanishtar&label=Profile%20views&color=0e75b6&style=flat" alt="theanishtar" /></a> 
-
-
 <img align="center" alt="dangth.dev" src="https://profilyze-api.vercel.app/api/profile/banner?background=itachi1&tech=java&streaks=fire&view=sharingan&skills=angular%2Cvuejs%2Creactjs%2Cnodejs" />
 
 
